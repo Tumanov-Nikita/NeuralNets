@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Neironki4\Neironki4\bin\Debug\Neironki4.exe.config
+C:\Users\user\source\repos\Neironki4\Neironki4\bin\Debug\Neironki4.exe
+C:\Users\user\source\repos\Neironki4\Neironki4\bin\Debug\Neironki4.pdb
+C:\Users\user\source\repos\Neironki4\Neironki4\obj\Debug\Neironki4.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Neironki4\Neironki4\obj\Debug\Neironki4.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Neironki4\Neironki4\obj\Debug\Neironki4.exe
+C:\Users\user\source\repos\Neironki4\Neironki4\obj\Debug\Neironki4.pdb
