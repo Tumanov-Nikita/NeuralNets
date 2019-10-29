@@ -5,3 +5,10 @@ C:\Users\user\source\repos\Neironki4\Neironki4\obj\Debug\Neironki4.csprojAssembl
 C:\Users\user\source\repos\Neironki4\Neironki4\obj\Debug\Neironki4.csproj.CoreCompileInputs.cache
 C:\Users\user\source\repos\Neironki4\Neironki4\obj\Debug\Neironki4.exe
 C:\Users\user\source\repos\Neironki4\Neironki4\obj\Debug\Neironki4.pdb
+C:\Users\Никита\Desktop\NeuralNets-master\bin\Debug\Neironki4.exe.config
+C:\Users\Никита\Desktop\NeuralNets-master\bin\Debug\Neironki4.exe
+C:\Users\Никита\Desktop\NeuralNets-master\bin\Debug\Neironki4.pdb
+C:\Users\Никита\Desktop\NeuralNets-master\obj\Debug\Neironki4.csprojAssemblyReference.cache
+C:\Users\Никита\Desktop\NeuralNets-master\obj\Debug\Neironki4.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\NeuralNets-master\obj\Debug\Neironki4.exe
+C:\Users\Никита\Desktop\NeuralNets-master\obj\Debug\Neironki4.pdb
