@@ -24,17 +24,19 @@ namespace Neironki4
             List<double> fitFunctionsCalc = new List<double>();
             foreach (Individual individual in PopulationList) {
                 double function = 0;
-                for (int j = 0; j < Program.N; j++)
+                for (int j = 0; j < Program.m; j++)
                 {
+                    double sumProp = 0;
                     for (int i = 0; i < Program.N; i++)
-                    {
+                    { 
                         if (individual.Chromosome[i])
                         {
-                            function += Program.array[i, j];
+                            sumProp += Program.array[i, j];
                         }
                     }
+                    function += Math.Pow(Program.norms[j] - sumProp, 2);
                 }
-                fitFunctionsCalc.Add(function);
+                fitFunctionsCalc.Add(Math.Sqrt(function/Program.m));
             }
             this.FitFunctions = fitFunctionsCalc;
         }
@@ -51,7 +53,7 @@ namespace Neironki4
                 {
                     if (individual.Chromosome[i])
                     {
-                        summa += Program.array[i,Program.N];
+                        summa += Program.array[i,Program.m];
                     }
                 }
                 if (genes == Program.k && FitFunctions[index] < Program.fitnessFunctionLimit && summa < Program.moneyLimit)

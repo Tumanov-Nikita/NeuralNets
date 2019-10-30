@@ -35,7 +35,7 @@ namespace Neironki4
 
         public void Mutation(int index)
         {
-            if (rnd.Next(0,101)<=40)
+            if (rnd.Next(0,101)<=20)
                 Chromosome[index] = !Chromosome[index];
         }
     }
